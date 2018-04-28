@@ -7,7 +7,9 @@ namespace NancyApplication
     {
         public void Configure(IApplicationBuilder app)
         {
-            app.UseOwin(x => x.UseNancy());
+            app.UseOwin(x => {
+                x.UseNancy();
+            });
         }
    }
 }

@@ -7,12 +7,13 @@ namespace NancyApplication
         public HomeModule()
         {
             Get("/", args => "Hello from Nancy running on CoreCLR");
-            Get("/test/{name}", args => new Person() { Name = args.name });
+            Get("/test/{name}", args => new Person() { Name = args.name});
         }
     }
  
     public class Person
     {
         public string Name { get; set; }
+
     }
 }
