@@ -1,0 +1,10 @@
+C:\Users\Magnus\source\repos\webfilemanager\bin\Debug\netcoreapp2.0\webfilemanager.deps.json
+C:\Users\Magnus\source\repos\webfilemanager\bin\Debug\netcoreapp2.0\webfilemanager.runtimeconfig.json
+C:\Users\Magnus\source\repos\webfilemanager\bin\Debug\netcoreapp2.0\webfilemanager.runtimeconfig.dev.json
+C:\Users\Magnus\source\repos\webfilemanager\bin\Debug\netcoreapp2.0\webfilemanager.dll
+C:\Users\Magnus\source\repos\webfilemanager\bin\Debug\netcoreapp2.0\webfilemanager.pdb
+C:\Users\Magnus\source\repos\webfilemanager\obj\Debug\netcoreapp2.0\webfilemanager.csproj.CoreCompileInputs.cache
+C:\Users\Magnus\source\repos\webfilemanager\obj\Debug\netcoreapp2.0\webfilemanager.AssemblyInfoInputs.cache
+C:\Users\Magnus\source\repos\webfilemanager\obj\Debug\netcoreapp2.0\webfilemanager.AssemblyInfo.cs
+C:\Users\Magnus\source\repos\webfilemanager\obj\Debug\netcoreapp2.0\webfilemanager.dll
+C:\Users\Magnus\source\repos\webfilemanager\obj\Debug\netcoreapp2.0\webfilemanager.pdb
